@@ -1,0 +1,22 @@
+# /20.12.2017,file,crystal,"exposure time, min","threshold, LSB",source,"U_pmt, V",type of file,Integral circuit
+0,PMT_2017-12-27_000_eh_0,empty,stand,2,6,-,1200,EH,
+1,thick_glass_2017-12-27_001_eh_0,thick,glass,0.66,6,-,1200,EH,
+2,thin_glass_2017-12-27_002_eh_0,thin,glass,0.66,6,-,1200,EH,
+3,acrylic_glass_no2_2017-12-27_003_eh_0,acryl,glass,2,6,-,1200,EH,
+4,acrylic_glass_no2_Pu239_2017-12-27_005_eh_0,acryl,glass,3,6,alpha(Pu-239),1200,EH,
+5,thick_glass_Pu239_2017-12-27_006_eh_0,thick,glass,2,6,alpha(Pu-239),1200,EH,
+6,thin_glass_Pu239_2017-12-27_007_eh_0,thin,glass,1.33,6,alpha(Pu-239),1200,EH,
+7,PMT_Pu239_2017-12-27_008_eh_0,-,1,6,alpha(Pu-239),1200,EH,charge,sen,40fc/LSB
+8,PMT_Pu239_2017-12-27_009_eh_0,-,1,6,alpha(Pu-239),1200,EH,charge,sen,160fc/LSB
+9,0_8ZnWO4_0_2CaWO4_Eu_Pu239_2017-12-27_010_eh_0,"0.8ZnWO4 - 0.2CaWO4 : Eu",2,6,alpha(Pu-239),1200,EH,
+10,0_8ZnWO4_0_2CaWO4_Eu_Pu239_2017-12-27_011_wf_0,"0.8ZnWO4 - 0.2CaWO4 : Eu",1,6,alpha(Pu-239),1200,WF,
+11,0_8ZnWO4_0_2CaWO4_Pr_Pu239_2017-12-27_014_eh_0,"0.8ZnWO4 - 0.2CaWO4 : Pr",2,6,alpha(Pu-239),1200,EH,
+12,0_8ZnWO4_0_2CaWO4_Pr_Pu239_2017-12-27_015_wf_0,"0.8ZnWO4 - 0.2CaWO4 : Pr",1,6,alpha(Pu-239),1200,WF,
+13,0_8ZnWO4_0_2CaMoO4_Pr_Pu239_2017-12-27_015_eh_0,"0.8ZnWO4 - 0.2CaMoO4 : Pr",2,6,alpha(Pu-239),1200,EH,
+14,0_8ZnWO4_0_2CaMoO4_Pr_Pu239_2017-12-27_016_wf_0,"0.8ZnWO4 - 0.2CaMoO4 : Pr",1,6,alpha(Pu-239),1200,WF,
+15,0_8ZnWO4_0_2ZnMoO4_Eu_Pu239_2017-12-27_017_eh_0,"0.8ZnWO4 - 0.2ZnMoO4 : Eu",2,6,alpha(Pu-239),1200,EH,
+16,0_8ZnWO4_0_2ZnMoO4_Eu_Pu239_2017-12-27_018_wf_0,"0.8ZnWO4 - 0.2ZnMoO4 : Eu",1,6,alpha(Pu-239),1200,WF,
+17,0_8ZnWO4_0_2CaMoO4_Eu_Pu239_2017-12-27_020_eh_0,"0.8ZnWO4 - 0.2CaMoO4 : Eu",2,6,alpha(Pu-239),1200,EH,
+18,0_8ZnWO4_0_2CaMoO4_Eu_Pu239_2017-12-27_021_wf_0,"0.8ZnWO4 - 0.2CaMoO4 : Eu",1,6,alpha(Pu-239),1200,WF,
+19,0_8ZnWO4_0_2ZnMoO4_Pr_Pu239_2017-12-27_022_eh_0,"0.8ZnWO4 - 0.2ZnMoO4 : Pr",2,6,alpha(Pu-239),1200,EH,
+20,0_8ZnWO4_0_2ZnMoO4_Pr_Pu239_2017-12-27_023_wf_0,"0.8ZnWO4 - 0.2ZnMoO4 : Pr",1,6,alpha(Pu-239),1200,WF,
